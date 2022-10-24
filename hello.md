@@ -15,4 +15,4 @@
 
 ## branch 추가 테스트 
 version2
-main up
+main up version2  up
