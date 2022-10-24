@@ -14,5 +14,4 @@
 - 소스트리의 체크아웃: 브랜치 이름을 더블 클릭하는 것만으로 체크아웃 가능
 
 ## branch 추가 테스트 
-version2
-main up version2  up
+version2 충돌 테스트@!!
